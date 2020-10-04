@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Link to profile: https://work-portfolio-35782.web.app/
 
 ## Available Scripts
 
