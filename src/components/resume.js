@@ -52,7 +52,8 @@ class Resume extends Component {
                             startYear={2018}
                             endYear="Present"
                             jobName="Mobile Tester"
-                            company="Google"
+                            company="Google" 
+                            
                             jobDescription="Ensured between 2-8 Google and Android devices per day on average met passing quality assurance criteria prior to their official public launch by utilizing different audio hardware testing processes.
                             Leverage QA and QC expertise to successfully develop and optimize audio quality testing processes across  different Android devices including Google Pixel and Motorola.
 Led audio quality improvement on Google and Motorola devices to improve customer experience by creating internal bugs using Google’s internal bug system, “Buganizer”.
